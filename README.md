@@ -10,8 +10,8 @@ Kia Ora ko Wharekooti Moana Harris toku ingoa, a passionate developer with a kee
 
 ### Goals
 
-- To contribute to open-source projects that make a difference.
-- To deepen my understanding of complex data structures and algorithms.
-- To build user-friendly and efficient software solutions.
+- To make a game revolving around Te Reo Maori
+- To make Te Rangatira know world wide.
+- To build user-friendly and efficient software solutions for Maori people.
 
 
